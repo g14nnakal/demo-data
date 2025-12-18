@@ -29,7 +29,7 @@
 	<title>Jurnalpress Demo Grid For Blog</title>
 	<link>https://demos.bostheme.com/jurnalpress-gridblog</link>
 	<description>Just another Bostheme Demos site.</description>
-	<pubDate>Thu, 18 Dec 2025 05:07:13 +0000</pubDate>
+	<pubDate>Thu, 18 Dec 2025 13:26:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.bostheme.com/</wp:base_site_url>
@@ -785,7 +785,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/168/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/168/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -793,10 +793,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>168</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[168]]></wp:post_name>
@@ -839,10 +839,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/169/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/169/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -850,10 +854,10 @@
 		<content:encoded><![CDATA[Hot]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>169</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[169]]></wp:post_name>
@@ -896,10 +900,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/170/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/170/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -907,10 +915,10 @@
 		<content:encoded><![CDATA[Popular]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>170</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[170]]></wp:post_name>
@@ -953,10 +961,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/171/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/171/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -964,10 +976,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>171</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[171]]></wp:post_name>
@@ -1010,10 +1022,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/172/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/172/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -1021,10 +1037,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>172</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[172]]></wp:post_name>
@@ -1067,10 +1083,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Lainnya]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/lainnya/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/lainnya/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/lainnya/</guid>
@@ -1078,10 +1098,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>173</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lainnya]]></wp:post_name>
@@ -1132,6 +1152,10 @@
 		<wp:meta_key><![CDATA[_idt_submenu_pos]]></wp:meta_key>
 		<wp:meta_value><![CDATA[center]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[gridblog]]></title>
@@ -1172,7 +1196,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/174/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/174/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -1180,10 +1204,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>174</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[174]]></wp:post_name>
@@ -1226,10 +1250,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/175/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/175/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -1237,10 +1265,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>175</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[175]]></wp:post_name>
@@ -1283,10 +1311,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/176/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/176/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -1294,10 +1326,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>176</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[176]]></wp:post_name>
@@ -1340,10 +1372,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/177/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/177/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -1351,10 +1387,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>177</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[177]]></wp:post_name>
@@ -1397,10 +1433,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/178/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/178/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -1408,10 +1448,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>178</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[178]]></wp:post_name>
@@ -1454,10 +1494,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/179/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/179/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -1465,10 +1509,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>179</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[179]]></wp:post_name>
@@ -1511,10 +1555,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/180/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/180/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -1522,10 +1570,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>180</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[180]]></wp:post_name>
@@ -1568,10 +1616,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/181/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/181/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -1579,10 +1631,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>181</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[181]]></wp:post_name>
@@ -1624,6 +1676,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2084,7 +2140,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Kategori]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/kategori/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/kategori/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/kategori/</guid>
@@ -2092,10 +2148,10 @@
 		<content:encoded><![CDATA[Hot]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>190</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[kategori]]></wp:post_name>
@@ -2138,10 +2194,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/191/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/191/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2149,10 +2209,10 @@
 		<content:encoded><![CDATA[Favorit]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>191</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[191]]></wp:post_name>
@@ -2195,10 +2255,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/192/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/192/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2206,10 +2270,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>192</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[192]]></wp:post_name>
@@ -2252,10 +2316,14 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/193/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/193/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2263,10 +2331,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>193</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[193]]></wp:post_name>
@@ -2308,6 +2376,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2354,7 +2426,7 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/194/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/194/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2362,10 +2434,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>194</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[194]]></wp:post_name>
@@ -2408,10 +2480,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/195/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/195/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2419,10 +2495,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>195</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[195]]></wp:post_name>
@@ -2465,10 +2541,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Label]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/label/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/label/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/label/</guid>
@@ -2476,10 +2556,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>196</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[label]]></wp:post_name>
@@ -2522,10 +2602,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/197/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/197/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2533,10 +2617,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>197</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[197]]></wp:post_name>
@@ -2579,10 +2663,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/198/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/198/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2590,10 +2678,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[Great]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>198</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[198]]></wp:post_name>
@@ -2636,10 +2724,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/199/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/199/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2647,10 +2739,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>199</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[199]]></wp:post_name>
@@ -2693,10 +2785,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/200/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/200/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2704,10 +2800,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>200</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[200]]></wp:post_name>
@@ -2750,10 +2846,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/201/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/201/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2761,10 +2861,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>201</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[201]]></wp:post_name>
@@ -2807,10 +2907,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/202/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/202/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2818,10 +2922,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>202</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[202]]></wp:post_name>
@@ -2864,10 +2968,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/203/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/203/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2875,10 +2983,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>203</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[203]]></wp:post_name>
@@ -2921,10 +3029,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/204/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/204/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -2932,10 +3044,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>204</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[204]]></wp:post_name>
@@ -2978,10 +3090,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Laman]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/laman/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/laman/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/laman/</guid>
@@ -2989,10 +3105,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>205</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:51]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[laman]]></wp:post_name>
@@ -3035,10 +3151,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/212/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/212/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -3046,10 +3166,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>212</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:52]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[212]]></wp:post_name>
@@ -3092,10 +3212,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/213/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/213/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -3103,10 +3227,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>213</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 17:09:57]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 17:09:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 17:09:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[213]]></wp:post_name>
@@ -3149,10 +3273,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/214/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/214/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -3160,10 +3288,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>214</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:52]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:24:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:24:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:24:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[214]]></wp:post_name>
@@ -3206,10 +3334,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/215/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/215/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -3217,10 +3349,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>215</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:52]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:24:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:24:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:24:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[215]]></wp:post_name>
@@ -3263,10 +3395,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/216/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/216/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -3274,10 +3410,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>216</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:53]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:24:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:24:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:24:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[216]]></wp:post_name>
@@ -3320,10 +3456,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/217/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/217/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/</guid>
@@ -3331,10 +3471,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>217</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:53]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[217]]></wp:post_name>
@@ -3377,10 +3517,14 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/222/</link>
+		<link>https://demos.bostheme.com/jurnalpress-gridblog/2025/12/18/222/</link>
 		<pubDate>Wed, 17 Dec 2025 09:08:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">https://demos.bostheme.com/jurnalpress-gridblog/2025/12/17/222/</guid>
@@ -3388,10 +3532,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>222</wp:post_id>
-		<wp:post_date><![CDATA[2025-12-17 09:08:53]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-12-18 13:23:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-12-17 09:08:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-12-17 09:08:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-12-17 09:08:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-12-18 13:23:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-12-18 13:23:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[222]]></wp:post_name>
@@ -3433,6 +3577,10 @@ Untuk itu Dewan Persbersama organisasi pers, pengelola media siber, dan masyarak
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025-12-17]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
